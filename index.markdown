@@ -5,7 +5,6 @@ title: Welcome to My Blog
 
 <div class="hero">
   <h1>Hey, I’m Mercury!</h1>
-  <a href="/about" class="btn">Learn More About Me</a>
 </div>
 
 <section class="latest-posts">
