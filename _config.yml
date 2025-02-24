@@ -1,0 +1,13 @@
+title: Mercury's Blog
+email: hi@nikhilbastola.com.np
+description: Mercury's Blog 
+baseurl: "" 
+url: "" 
+twitter_username: jekyllrb
+github_username:  jekyll
+
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - minima.scss
